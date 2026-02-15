@@ -33,10 +33,6 @@ We use the **Spotify Google Play Store Reviews** dataset from Kaggle, containing
 │   └── 3 - Classification.ipynb
 ├── pyproject.toml
 ├── README.md
-├── scripts
-│   ├── hello_armor.py
-│   ├── hello_becky.py
-│   └── hello_Liujun.py
 └── src
     ├── __init__.py
     ├── mypkg.egg-info
