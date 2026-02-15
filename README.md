@@ -20,14 +20,17 @@ We use the **Spotify Google Play Store Reviews** dataset from Kaggle, containing
 ## Results & Insights
 🧩 Topic Modeling — What Users Talk About
 We explored recurring themes across Spotify Play Store reviews to understand what drives user satisfaction. Most feedback centers on premium pricing, ads, updates, playlists, and app performance. Positive reviews emphasize smooth listening and playlist quality, while negative reviews focus on crashes, updates, and playback issues.
+
 👉 Insight: Core product experience and monetization design shape most user perceptions. 
 
 😊 Sentiment Analysis — Looking Beyond Ratings
 Sentiment scores show a positively skewed distribution, with most reviews neutral-to-positive. A notable finding is the “5-star anomaly,” where users give high ratings but still mention frustrations.
+
 👉 Insight: Text sentiment adds important nuance that star ratings alone cannot capture.
 
 🤖 Predictive Classification — Predicting Ratings from Text
 We built rating prediction models using TF-IDF and Word2Vec features. TF-IDF achieved stronger performance (~75% accuracy). Both models performed well on extreme ratings but struggled with mid-range reviews due to mixed sentiment.
+
 👉 Insight: Machine learning can detect clear opinions, but nuanced feedback remains challenging to classify.
 
 
