@@ -28,8 +28,7 @@ We use the **Spotify Google Play Store Reviews** dataset from Kaggle, containing
 ## Method
 <img width="900" height="530" alt="Screenshot 2026-02-15 at 3 59 09 PM" src="https://github.com/user-attachments/assets/d902706e-7fed-4c64-92e1-def779ece023" />
 
-<br>
-
+<br><br>
 
 ## Results & Insights
 ### Topic Modeling — What Users Talk About
